@@ -1,5 +1,5 @@
 # Tuples
-# Tuples store different types of element in ordered sequence.
+# Tuples store different datatypes of element in ordered sequence.
 # This are immutable, means add,remove not supported.
 # It allow duplicate and uses paranthesis for storing '()'
 mobile=('samsung', 'oneplus', 'moto', 'realme',33, 44, 33)
