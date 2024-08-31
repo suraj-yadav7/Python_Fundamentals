@@ -34,3 +34,10 @@ for i in range(5):
 else:
     print("Finally iteration completed")
 
+a=25
+val = 'yes' if a>10 and a<25 else 'no'
+print("if else: ", val)
+
+age=18
+val2=("no","yes")[age>=18]
+print("clever if: ", val2)
